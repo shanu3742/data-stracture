@@ -23,4 +23,4 @@ const reverseArrayRecursively = (value, count) => {
   }
   return value;
 };
-console.log(reverseArrayRecursively([11, 32, 43, 19, 28], 0));
+console.log(reverseArrayRecursively([11, 32, 43, 19], 0));

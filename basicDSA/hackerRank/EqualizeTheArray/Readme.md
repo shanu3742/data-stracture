@@ -48,4 +48,4 @@ STDIN       Function
 
 ### **Explanation**
 
-Delete **arr[2] =2** and **arr[3]=1** to leave **arr'=[3,3,3]**. This is minimal. The only other options are to delete **4** elements to get an array of either **[1]**  or **[2]** .s
+Delete **arr[2] =2** and **arr[3]=1** to leave **arr'=[3,3,3]**. This is minimal. The only other options are to delete **4** elements to get an array of either **[1]**  or **[2]** .
